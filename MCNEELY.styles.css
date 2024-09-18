@@ -311,10 +311,10 @@ header, footer{
 /* ---------- ADJUSTING RESPONSIVE IMAGE SIZE ---------- */
 /* --------------- BEGIN RESPONSIVE IMAGE ADJUST SIZES --------------- */
 @media only screen and (min-resolution: 192dpi) {
-    /* img{
+    img{
         width: 300px;
         max-width: 300px;
-    } */
+    } 
 }
 /* --------------- END RESPONSIVE IMAGE ADJUST SIZES --------------- */
 
